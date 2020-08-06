@@ -5,7 +5,7 @@ Sencilla API Rest construida con Spring Boot  que permite almacenar y recuperar 
 
 ----------------------------------------------------------------------------------------------------------------------
 
-Se genera archivo Dockerfile que permite generar imagen para levantar aplicacion Django dentro de contenedor Docker:
+Se genera archivo Dockerfile que permite generar imagen para levantar aplicacion Spring Boot dentro de contenedor Docker:
 
 ```
 
