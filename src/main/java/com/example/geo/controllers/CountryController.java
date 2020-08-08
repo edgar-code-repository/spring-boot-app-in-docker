@@ -12,6 +12,7 @@ import com.example.geo.repositories.dto.CountryDTO;
 
 @RestController
 @CrossOrigin
+@RequestMapping("/api")
 public class CountryController {
 	
 	@Autowired
