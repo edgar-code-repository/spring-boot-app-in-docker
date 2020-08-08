@@ -37,11 +37,11 @@ Se construye imagen a partir de archivo Dockerfile y se levanta contenedor a par
 
 **Se gatilla endpoint que retorna paises desde Swagger UI:**
 
-![Screenshot GetCountries](../screenshots/swagger-get-countries.png)
+![Screenshot GetCountries](screenshots/swagger-get-countries.png)
 
 
 **Respuesta generada en Swagger UI:**
 
-![Screenshot GetCountries](../screenshots/swagger-countries-response.png)
+![Screenshot GetCountries](screenshots/swagger-countries-response.png)
 
 --------------------------------------------------------------------------------------------------------------------------
